@@ -1,4 +1,3 @@
-# Yuu Paint
-v1
+# CREDITS TO iamn1ck
 
-A painting demo to help push the default APIs of Yuu Online.
+A forked version of Yuu Editor by iamn1ck
